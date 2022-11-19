@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foodie/static/css/main.863c8277.css",
+    "main.js": "/foodie/static/js/main.804b172c.js",
+    "static/media/meals.jpg": "/foodie/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/foodie/index.html",
+    "main.863c8277.css.map": "/foodie/static/css/main.863c8277.css.map",
+    "main.804b172c.js.map": "/foodie/static/js/main.804b172c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863c8277.css",
+    "static/js/main.804b172c.js"
+  ]
+}
