@@ -12,7 +12,7 @@ const AvailableMeals = () => {
   useEffect(() => {
     const fetchMeals = async () => {
       const response = await fetch(
-        "https://brainy-fawn-cap.cyclic.app/"
+        "https://react-http-fa63e-default-rtdb.asia-southeast1.firebasedatabase.app/meals"
       );
 
       if (!response.ok) {
