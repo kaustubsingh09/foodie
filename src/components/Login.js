@@ -40,7 +40,7 @@ function Login({ currentEvent }) {
       <form action="submit">
         <input onChange={mailHandler} placeholder="Enter Email..."></input>
         <input onChange={userHandler} placeholder="Enter Username..."></input>
-        <input onChange={passHandler} placeholder="Enter Password..."></input>
+        <input onChange={passHandler} type="password" placeholder="Enter Password..."></input>
         <button onClick={submitHandler} type="submit">
           Submit
         </button>
